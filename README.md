@@ -1,7 +1,7 @@
 # Keeggo_Avaliacao
 
 
-<h2>Tecnologias usadas:</>
+
 - Cypress
 - Cucumber
 
