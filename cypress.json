@@ -1,0 +1,11 @@
+{
+    "defaultCommandTimeout": 10000,
+    "env":{
+        "url":"http://automationpractice.com/index.php",
+        "usuario":"teste2021@teste.com.br",
+        "password":"teste"
+    },
+    "ignoreTestFiles": "*.js",
+    "testFiles": "**/*.{feature,features}"
+
+}
